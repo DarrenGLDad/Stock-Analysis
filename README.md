@@ -16,9 +16,6 @@ The stock performance was better in 2017 with almost all stocks being in the pos
 
 <img width="299" alt="Screen Shot 2021-03-01 at 1 48 53 PM" src="https://user-images.githubusercontent.com/77358388/109583746-64ec6e00-7ace-11eb-8a6e-3d8bcdc8a9b9.png">
 
-<img width="541" alt="Screen Shot 2021-03-01 at 2 12 29 PM" src="https://user-images.githubusercontent.com/77358388/109583840-88afb400-7ace-11eb-88f0-6c58c3ed70f4.png">
-
-<img width="492" alt="Screen Shot 2021-03-01 at 2 14 34 PM" src="https://user-images.githubusercontent.com/77358388/109583851-8f3e2b80-7ace-11eb-8e63-39999f2301cc.png">
 
 ## Summary
 
